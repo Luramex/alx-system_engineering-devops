@@ -1,1 +1,3 @@
-# alx-system_engineering-devops
+#!/bin/bash
+description : where am i script : pwd command
+
